@@ -8,3 +8,5 @@
 - reevoo/samuel
 - kosmas/pleaguer
 - pjhampton/Woolly
+defp deps do
+  [{：inch_ex、only：：docs}]
